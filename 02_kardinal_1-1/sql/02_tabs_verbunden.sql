@@ -1,4 +1,4 @@
--- Tabellen, unverbunden
+-- Tabellen, verbunden
 DROP TABLE IF EXISTS mydb.servants;
 DROP TABLE IF EXISTS mydb.cats;
 
